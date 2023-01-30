@@ -1,0 +1,1 @@
+java -classpath ..\dbdl\build\libs\dbdl.jar;..\bl\build\libs\bl.jar;..\common\dist\hr-common.jar;build\libs\pl.jar;c:\ab\*;c:\mysqljar\*;. com.thinking.machines.hr.pl.Main
